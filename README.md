@@ -13,11 +13,6 @@
 
 ### Mobile developer at <a href="https://www.zenika.com">@Zenika</a> and conference speaker 🎤
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audreygentili&hide=makefile,javascript&layout=donut)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=audreygentili&show_icons=true&hide=stars&hide_rank=true&line_height=34)
-
-#### Last projects 🚀
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olivierperez&repo=workshop-MostWanted&show_owner=true)](https://github.com/olivierperez/workshop-MostWanted)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=audreygentili&repo=Objectif-Jetpack-Compose)](https://github.com/audreygentili/Objectif-Jetpack-Compose)
 
 #### Follow me !
 
