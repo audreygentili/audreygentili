@@ -11,7 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/Android-A4C639)
 
 
-### Mobile developer at <a href="https://www.zenika.com">@Zenika</a> and conference speaker 🎤
+### Front-end developer at <a href="https://www.zenika.com">@Zenika</a> and conference speaker 🎤
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audreygentili&hide=makefile,javascript&layout=donut)
 
 #### Follow me !
